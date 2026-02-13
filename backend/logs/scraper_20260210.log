@@ -1,0 +1,62 @@
+2026-02-10 23:07:31,747 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:07:31,876 - scraper - INFO - ============================================================
+2026-02-10 23:07:31,876 - scraper - INFO - Starting website scraping session
+2026-02-10 23:07:31,876 - scraper - INFO - Base URL: https://syedmuhammadmehmam.site/
+2026-02-10 23:07:31,876 - scraper - INFO - ============================================================
+2026-02-10 23:07:31,876 - scraper - INFO - 
+--- Scraping page 1/1: https://syedmuhammadmehmam.site/ ---
+2026-02-10 23:07:31,876 - scraper - INFO - Starting scrape for: https://syedmuhammadmehmam.site/
+2026-02-10 23:07:32,310 - scraper - INFO - Successfully fetched https://syedmuhammadmehmam.site/ - Status: 200
+2026-02-10 23:07:32,324 - scraper - INFO - Extracted 4546 characters from https://syedmuhammadmehmam.site/
+2026-02-10 23:07:32,325 - scraper - INFO - ✓ Saved page content to: scraped_pages/homepage.txt
+2026-02-10 23:07:32,325 - scraper - INFO - 
+============================================================
+2026-02-10 23:07:32,325 - scraper - INFO - Scraping session complete
+2026-02-10 23:07:32,325 - scraper - INFO - Total pages scraped: 1/1
+2026-02-10 23:07:32,325 - scraper - INFO - Failed pages: 0
+2026-02-10 23:07:32,325 - scraper - INFO - Total characters: 4601
+2026-02-10 23:07:32,325 - scraper - INFO - Pages saved to: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/scraped_pages
+2026-02-10 23:07:32,325 - scraper - INFO - Log file: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/logs/scraper_20260210.log
+2026-02-10 23:07:32,325 - scraper - INFO - ============================================================
+2026-02-10 23:07:32,810 - rag_engine - INFO - Added 6 chunks to the knowledge base.
+2026-02-10 23:38:57,835 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:39:08,937 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:39:09,073 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-10 23:39:09,073 - apscheduler.scheduler - INFO - Added job "Daily OrbitThink Scrape" to job store "default"
+2026-02-10 23:39:09,073 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-10 23:39:09,073 - scheduler - INFO - Scheduler started. Job scheduled for every 24 hours.
+2026-02-10 23:39:43,868 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:39:44,005 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-10 23:39:44,005 - apscheduler.scheduler - INFO - Added job "Daily OrbitThink Scrape" to job store "default"
+2026-02-10 23:39:44,005 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-10 23:39:44,005 - scheduler - INFO - Scheduler started. Job scheduled for every 24 hours.
+2026-02-10 23:40:52,400 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:40:52,566 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-10 23:40:52,566 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-10 23:40:52,566 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-10 23:40:52,566 - scheduler - INFO - Scheduler started. Job scheduled for every 24 hours.
+2026-02-10 23:41:41,990 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-10 23:41:42,126 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-10 23:41:42,126 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-10 23:41:42,126 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-10 23:41:42,127 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-10 23:46:03,796 - backoff - INFO - Backing off send_request(...) for 0.1s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+2026-02-10 23:53:26,778 - __main__ - INFO - ============================================================
+2026-02-10 23:53:26,778 - __main__ - INFO - Starting website scraping session
+2026-02-10 23:53:26,778 - __main__ - INFO - Base URL: https://syedmuhammadmehmam.site/
+2026-02-10 23:53:26,778 - __main__ - INFO - ============================================================
+2026-02-10 23:53:26,778 - __main__ - INFO - 
+--- Scraping page 1/1: https://syedmuhammadmehmam.site/ ---
+2026-02-10 23:53:26,778 - __main__ - INFO - Starting scrape for: https://syedmuhammadmehmam.site/
+2026-02-10 23:53:28,037 - __main__ - INFO - Successfully fetched https://syedmuhammadmehmam.site/ - Status: 200
+2026-02-10 23:53:28,055 - __main__ - INFO - Extracted 4517 characters from https://syedmuhammadmehmam.site/
+2026-02-10 23:53:28,056 - __main__ - INFO - ✓ Saved page content to: scraped_pages/homepage.txt
+2026-02-10 23:53:28,056 - __main__ - INFO - 
+============================================================
+2026-02-10 23:53:28,056 - __main__ - INFO - Scraping session complete
+2026-02-10 23:53:28,056 - __main__ - INFO - Total pages scraped: 1/1
+2026-02-10 23:53:28,056 - __main__ - INFO - Failed pages: 0
+2026-02-10 23:53:28,056 - __main__ - INFO - Total characters: 4572
+2026-02-10 23:53:28,056 - __main__ - INFO - Pages saved to: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/scraped_pages
+2026-02-10 23:53:28,056 - __main__ - INFO - Log file: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/logs/scraper_20260210.log
+2026-02-10 23:53:28,057 - __main__ - INFO - ============================================================

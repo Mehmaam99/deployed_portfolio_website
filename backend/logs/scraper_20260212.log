@@ -1,0 +1,74 @@
+2026-02-12 00:05:09,818 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 00:05:09,971 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 00:05:09,971 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 00:05:09,971 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 00:05:09,972 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 00:05:19,085 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 00:05:19,246 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 00:05:19,532 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 00:05:19,533 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 00:05:19,533 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 00:05:19,533 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 00:05:19,534 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 00:05:25,649 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 00:05:25,966 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 00:05:25,967 - scraper - INFO - ============================================================
+2026-02-12 00:05:25,967 - scraper - INFO - Starting website scraping session
+2026-02-12 00:05:25,967 - scraper - INFO - Base URL: https://syedmuhammadmehmam.site/
+2026-02-12 00:05:25,967 - scraper - INFO - ============================================================
+2026-02-12 00:05:25,967 - scraper - INFO - 
+--- Scraping page 1/1: https://syedmuhammadmehmam.site/ ---
+2026-02-12 00:05:25,967 - scraper - INFO - Starting scrape for: https://syedmuhammadmehmam.site/
+2026-02-12 00:05:26,700 - scraper - INFO - Successfully fetched https://syedmuhammadmehmam.site/ - Status: 200
+2026-02-12 00:05:26,716 - scraper - INFO - Extracted 4533 characters from https://syedmuhammadmehmam.site/
+2026-02-12 00:05:26,718 - scraper - INFO - ✓ Saved page content to: scraped_pages/homepage.txt
+2026-02-12 00:05:26,718 - scraper - INFO - 
+============================================================
+2026-02-12 00:05:26,718 - scraper - INFO - Scraping session complete
+2026-02-12 00:05:26,718 - scraper - INFO - Total pages scraped: 1/1
+2026-02-12 00:05:26,719 - scraper - INFO - Failed pages: 0
+2026-02-12 00:05:26,719 - scraper - INFO - Total characters: 4588
+2026-02-12 00:05:26,719 - scraper - INFO - Pages saved to: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/scraped_pages
+2026-02-12 00:05:26,719 - scraper - INFO - Log file: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/logs/scraper_20260212.log
+2026-02-12 00:05:26,719 - scraper - INFO - ============================================================
+2026-02-12 00:05:27,116 - rag_engine - INFO - Added 6 chunks from source 'website' to the knowledge base.
+2026-02-12 00:05:28,338 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 19:08:30,510 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 19:11:59,366 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 19:16:29,205 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 20:16:29,460 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 20:17:42,136 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 20:17:42,281 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 20:17:42,750 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 20:17:42,752 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 20:17:42,753 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 20:17:42,753 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 20:17:42,753 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 20:18:32,057 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 20:18:32,228 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 20:18:32,543 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 20:18:32,545 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 20:18:32,545 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 20:18:32,546 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 20:18:32,546 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 20:26:59,727 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 20:26:59,854 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 20:27:00,146 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 20:27:00,147 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 20:27:00,147 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 20:27:00,147 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 20:27:00,148 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 20:33:11,022 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 20:33:25,668 - backoff - INFO - Backing off send_request(...) for 0.9s (requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='us.i.posthog.com', port=443): Read timed out. (read timeout=15))
+2026-02-12 20:54:53,772 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 22:38:36,720 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 22:44:55,866 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 22:45:06,760 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-12 22:45:06,918 - rag_engine - INFO - Loading local context from /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/data/extra_context.md
+2026-02-12 22:45:07,485 - rag_engine - INFO - Added 2 chunks from source 'local_master_context' to the knowledge base.
+2026-02-12 22:45:07,487 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-12 22:45:07,487 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-12 22:45:07,487 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-12 22:45:07,488 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-12 22:45:45,080 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-12 22:53:49,111 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

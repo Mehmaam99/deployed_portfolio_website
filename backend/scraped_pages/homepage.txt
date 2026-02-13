@@ -1,0 +1,131 @@
+URL: https://syedmuhammadmehmam.site/
+Scraped at: 2026-02-12 00:05:26
+Characters: 4533
+============================================================
+
+Home
+Hello, I'm
+Syed Muhammad Mehmam
+AI Engineer specializing in Large Language Models (LLMs), RAG
+pipelines, and Generative AI solutions, bridging the gap between raw data and intelligent agents.
+View My Work
+Get In Touch
+Design
+Code
+Ideas
+AI Engineer
+I design intelligent AI agents and RAG pipelines that turn enterprise data into
+actionable intelligence.
+I build Generative AI solutions that seamlessly integrate LLMs with vector databases like Pinecone and
+Weaviate—ensuring every workflow is scalable, efficient, and AI-native.
+Recently, I delivered an AI-powered RAG data pipeline that automated insights extraction from complex
+datasets, empowering teams with smarter, context-aware decision-making.
+Connect on LinkedIn
+AI Engineer
+Build LLM-powered applications and agents.
+Gen AI Developer
+RAG pipelines and prompt engineering.
+AI Data Infrastructure
+Scalable ETL, Vector DBs & Knowledge Graphs.
+Machine Learning Engineer
+Production-grade Predictive & Generative Models.
+2018–2022
+BS Computer Science
+Sir Syed University of Engineering and Technology
+2022–2023
+Data Scientist
+Predictive models and time series models.
+2023–2025
+AI Engineer
+Python, LangChain, LangGraph,LangSmith, VectorDBs related ETL pipelines
+2025—Now
+Sr. Gen AI & Cloud AI Engineer
+Architecting Enterprise AI Agents & Cloud Data Platforms.
+Projects
+A curated collection of enterprise-grade AI and Gen AI engineering projects — ranging from autonomous RAG
+agents
+and LLM fine-tuning to high-scale cloud data platforms.
+Click a card to view the repository or explore the project overview.
+All
+AI Engineering
+Gen AI Engineering
+Cloud Project
+Blood Pressure Analyzer
+A predictive health analytics application utilizing machine learning algorithms to classify blood
+pressure conditions with high accuracy.
+Machine Learning
+Health AI
+Predictive Analytics
+Azure Data Migration Pipeline
+An end-to-end Gen AI engineering solution that seamlessly migrates on-premises data to a modern
+cloud-based data warehouse on Azure.
+Azure Cloud
+Databricks
+Data Factory
+Enterprise Data Warehouse for AI
+A high-performance data warehouse architecture (Medallion) ensuring clean, governed, and AI-ready
+data for advanced analytics and ML model training.
+AI Data Strategy
+SQL
+Medallion Architecture
+Data Governance
+Hospital Gen AI Engineering Pipeline
+A data-driven solution that processes hospital records to monitor costs, analyze departmental
+expenses, and deliver insights for smarter financial decisions.
+Clinical Data Modeling
+ETL Orchestration
+Data Quality
+Azure Gen AI Engineering Project
+A cloud-native pipeline built on Azure to process and analyze Olympic data, transforming raw
+datasets into actionable insights for performance and trend analysis.
+Data Factory
+Azure Cloud
+Smart Occupancy Detection System
+An IoT-powered solution that intelligently monitors and analyzes home occupancy in real time for
+smarter energy management and enhanced security.
+Kafka
+AWS
+S3
+Docker
+AI RAG Data Pipeline
+A RAG-based data pipeline that ingests video data from AWS S3, performs audio extraction and
+speech-to-text transcription, and converts the text into vector embeddings for storage in a vector
+database.
+Pyhton
+AWS
+S3
+RAG
+Skills
+Core strengths across Gen AI engineering, warehousing, and analytics—focused on building scalable, reliable,
+and cloud-based data solutions.
+AI & Gen AI Engineer
+Developing RAG pipelines, fine-tuning LLMs, and building intelligent agents with LangChain
+and LlamaIndex.
+Gen AI Engineering
+ETL/ELT design, vector database management (ChromaDB), and scalable data
+processing pipelines.
+Cloud AI Services
+Experience with OpenAI API, Azure AI, AWS Bedrock, and deploying models on cloud
+infrastructure.
+Machine Learning
+Predictive modeling, deep learning, and MLOps for production-grade AI applications.
+Also: SQL Server, PostgreSQL, DataBricks, Spark optimization, version control (Git), and data
+quality frameworks.
+Resume
+View my resume or download the PDF.
+View Resume
+Download PDF
+Let’s build with AI
+I help teams automate workflows and unleash the potential of their data through Gen AI agents and robust AI
+pipelines. Share a brief on your use case and I’ll get back within 24–48 hours.
+Contact Info
+For any inquiries, please contact me via email.
+Project Inquiries
+For engagements, collaborations, and consulting.
+muhammadmehmaam@gmail.com
+Preferred Contact
+Email is best for initial scoping or used LinkedIn too.
+Happy to schedule a call after your message.
+Location & Availability
+Remote — Worldwide
+Replies within 12–24 hours (business days)

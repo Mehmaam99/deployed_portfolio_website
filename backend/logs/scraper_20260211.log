@@ -1,0 +1,213 @@
+2026-02-11 00:02:52,968 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 00:02:53,098 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 00:02:53,098 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 00:02:53,098 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 00:02:53,098 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 00:07:39,873 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 00:07:40,013 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 00:07:40,013 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 00:07:40,013 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 00:07:40,013 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 00:17:12,275 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 00:17:12,431 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 00:17:12,431 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 00:17:12,431 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 00:17:12,432 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 00:21:37,934 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 14:39:51,611 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 14:40:12,853 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 15:17:41,093 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 15:41:58,507 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 15:41:58,654 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 15:41:58,654 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 15:41:58,654 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 15:41:58,654 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 15:44:29,124 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 17:04:30,927 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 18:22:29,079 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 18:22:29,639 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 18:22:29,640 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 18:22:29,640 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 18:22:29,640 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 18:23:10,331 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 18:23:58,640 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 18:24:08,178 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 22:43:57,143 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:01:50,305 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:01:50,452 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:01:50,452 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:01:50,452 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:01:50,453 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:01:57,658 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:01:57,799 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:01:57,799 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:01:57,799 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:01:57,800 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:06:28,522 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:06:28,666 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:06:28,666 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:06:28,666 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:06:28,666 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:06:29,584 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:06:29,722 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:06:29,722 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:06:29,723 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:06:29,723 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:07:48,628 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:08:21,905 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:08:22,111 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:08:22,111 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:08:22,111 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:08:22,111 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:08:23,061 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:08:23,230 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:08:23,231 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:08:23,231 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:08:23,231 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:08:46,594 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:19:02,095 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:19:02,235 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:19:02,235 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:19:02,236 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:19:02,236 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:19:15,451 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:20:24,935 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:20:25,085 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:20:25,086 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:20:25,086 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:20:25,086 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:20:25,097 - scraper - INFO - ============================================================
+2026-02-11 23:20:25,098 - scraper - INFO - Starting website scraping session
+2026-02-11 23:20:25,098 - scraper - INFO - Base URL: https://syedmuhammadmehmam.site/
+2026-02-11 23:20:25,098 - scraper - INFO - ============================================================
+2026-02-11 23:20:25,098 - scraper - INFO - 
+--- Scraping page 1/1: https://syedmuhammadmehmam.site/ ---
+2026-02-11 23:20:25,098 - scraper - INFO - Starting scrape for: https://syedmuhammadmehmam.site/
+2026-02-11 23:20:25,910 - scraper - INFO - Successfully fetched https://syedmuhammadmehmam.site/ - Status: 200
+2026-02-11 23:20:25,922 - scraper - INFO - Extracted 4533 characters from https://syedmuhammadmehmam.site/
+2026-02-11 23:20:25,923 - scraper - INFO - ✓ Saved page content to: scraped_pages/homepage.txt
+2026-02-11 23:20:25,923 - scraper - INFO - 
+============================================================
+2026-02-11 23:20:25,923 - scraper - INFO - Scraping session complete
+2026-02-11 23:20:25,923 - scraper - INFO - Total pages scraped: 1/1
+2026-02-11 23:20:25,923 - scraper - INFO - Failed pages: 0
+2026-02-11 23:20:25,923 - scraper - INFO - Total characters: 4588
+2026-02-11 23:20:25,923 - scraper - INFO - Pages saved to: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/scraped_pages
+2026-02-11 23:20:25,923 - scraper - INFO - Log file: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/logs/scraper_20260211.log
+2026-02-11 23:20:25,923 - scraper - INFO - ============================================================
+2026-02-11 23:20:26,321 - rag_engine - INFO - Added 6 chunks to the knowledge base.
+2026-02-11 23:20:59,258 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:24:09,089 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 0.400903 seconds
+2026-02-11 23:24:12,563 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:30,984 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:32,040 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:32,872 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:42,344 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:43,464 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:43,705 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:26:43,706 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2026-02-11 23:26:47,160 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:26:51,399 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:26:51,400 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 7.000000 seconds
+2026-02-11 23:26:59,249 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:27:11,999 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:27:12,139 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:27:12,139 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:27:12,139 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:27:12,139 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:27:18,663 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:27:28,637 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:27:47,520 - scraper - INFO - ============================================================
+2026-02-11 23:27:47,520 - scraper - INFO - Starting website scraping session
+2026-02-11 23:27:47,521 - scraper - INFO - Base URL: https://syedmuhammadmehmam.site/
+2026-02-11 23:27:47,521 - scraper - INFO - ============================================================
+2026-02-11 23:27:47,521 - scraper - INFO - 
+--- Scraping page 1/1: https://syedmuhammadmehmam.site/ ---
+2026-02-11 23:27:47,521 - scraper - INFO - Starting scrape for: https://syedmuhammadmehmam.site/
+2026-02-11 23:27:48,801 - scraper - INFO - Successfully fetched https://syedmuhammadmehmam.site/ - Status: 200
+2026-02-11 23:27:48,814 - scraper - INFO - Extracted 4533 characters from https://syedmuhammadmehmam.site/
+2026-02-11 23:27:48,816 - scraper - INFO - ✓ Saved page content to: scraped_pages/homepage.txt
+2026-02-11 23:27:48,816 - scraper - INFO - 
+============================================================
+2026-02-11 23:27:48,816 - scraper - INFO - Scraping session complete
+2026-02-11 23:27:48,816 - scraper - INFO - Total pages scraped: 1/1
+2026-02-11 23:27:48,816 - scraper - INFO - Failed pages: 0
+2026-02-11 23:27:48,816 - scraper - INFO - Total characters: 4588
+2026-02-11 23:27:48,816 - scraper - INFO - Pages saved to: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/scraped_pages
+2026-02-11 23:27:48,816 - scraper - INFO - Log file: /home/mehmam/Desktop/my-portfolio-website-master/Portfolio_AI_Chatbot/backend/logs/scraper_20260211.log
+2026-02-11 23:27:48,816 - scraper - INFO - ============================================================
+2026-02-11 23:27:49,116 - rag_engine - INFO - Added 6 chunks to the knowledge base.
+2026-02-11 23:28:01,790 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:12,986 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:13,488 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:15,535 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:22,237 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:22,238 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2026-02-11 23:28:24,589 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:24,825 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:24,825 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:28:34,105 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:34,105 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2026-02-11 23:28:34,259 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:42,069 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:42,268 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:42,269 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:28:42,302 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:42,303 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:28:49,358 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:49,359 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2026-02-11 23:28:51,412 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:51,413 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2026-02-11 23:28:51,439 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:51,440 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2026-02-11 23:28:52,521 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:28:59,487 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:59,487 - rag_engine - ERROR - Error generating response: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgcbnd2nf5yra3yx3w96cj43` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5304, Requested 838. Please try again in 1.42s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-02-11 23:28:59,505 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:28:59,506 - rag_engine - ERROR - Error generating response: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgcbnd2nf5yra3yx3w96cj43` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5302, Requested 839. Please try again in 1.41s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-02-11 23:29:17,469 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:29:17,604 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:29:17,604 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:29:17,604 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:29:17,604 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:29:30,770 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2026-02-11 23:29:30,923 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-11 23:29:30,923 - apscheduler.scheduler - INFO - Added job "Monthly Portfolio Scrape" to job store "default"
+2026-02-11 23:29:30,923 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-11 23:29:30,923 - scheduler - INFO - Scheduler started. Job scheduled for every 30 days.
+2026-02-11 23:29:39,520 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:29:40,429 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:29:41,330 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:29:42,240 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:29:42,474 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:29:42,474 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2026-02-11 23:29:51,259 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:29:51,484 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:29:51,484 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2026-02-11 23:29:52,524 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:29:52,525 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:29:58,514 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:29:58,514 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2026-02-11 23:30:01,113 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:30:01,539 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:01,539 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 10.000000 seconds
+2026-02-11 23:30:01,596 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:01,597 - rag_engine - WARNING - Rate limit hit. Retrying in 1.15s...
+2026-02-11 23:30:02,802 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:02,802 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:30:11,610 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:11,610 - rag_engine - WARNING - Rate limit hit. Retrying in 1.81s...
+2026-02-11 23:30:11,857 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:11,858 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 6.000000 seconds
+2026-02-11 23:30:13,472 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:13,473 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2026-02-11 23:30:17,927 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:17,927 - rag_engine - WARNING - Rate limit hit. Retrying in 2.96s...
+2026-02-11 23:30:18,787 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-11 23:30:20,941 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:20,942 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 8.000000 seconds
+2026-02-11 23:30:29,027 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:29,027 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2026-02-11 23:30:38,113 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-02-11 23:30:38,114 - rag_engine - ERROR - Error generating response: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.1-8b-instant` in organization `org_01kgcbnd2nf5yra3yx3w96cj43` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Used 5863, Requested 1009. Please try again in 8.72s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-02-12 00:03:37,498 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
