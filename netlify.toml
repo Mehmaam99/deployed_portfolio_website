@@ -1,0 +1,21 @@
+[build]
+  # The directory Netlify should serve files from
+  publish = "frontend"
+  
+  # No build command needed for a static site
+  command = ""
+
+# Redirect rules for SPA-like behavior (optional)
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = false
+  
+# Custom headers for security
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer-when-downgrade"
