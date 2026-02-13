@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta name="description"
+    content="Syed Muhammad Mehmam - AI Engineer specializing in Large Language Models, RAG pipelines, and Generative AI solutions. Building intelligent AI agents and enterprise-grade ML systems.">
+  <meta name="keywords"
+    content="AI Engineer, Gen AI, LLM, RAG, Machine Learning, Generative AI, AI Agent Development, Data Engineering">
+  <title>Syed Muhammad Mehmam | AI Engineer</title>
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon.png">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+
+  <style>
+    /* Availability Badge */
+    .availability-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(34, 197, 94, 0.1);
+      border: 1px solid rgba(34, 197, 94, 0.3);
+      padding: 8px 16px;
+      border-radius: 50px;
+      margin-bottom: 20px;
+      font-size: 14px;
+      color: #22c55e;
+      font-weight: 500;
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      background: #22c55e;
+      border-radius: 50%;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    @keyframes pulse {
+
+      0%,
+      100% {
+        opacity: 1;
+      }
+
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    /* Stats Row */
+    .stats-row {
+      display: flex;
+      gap: 30px;
+      margin: 25px 0;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .stat-number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent-color);
+      line-height: 1;
+    }
+
+    .stat-label {
+      font-size: 0.875rem;
+      color: var(--default-color);
+      opacity: 0.7;
+      margin-top: 5px;
+    }
+
+    @media (max-width: 768px) {
+      .stats-row {
+        gap: 20px;
+      }
+
+      .stat-number {
+        font-size: 1.5rem;
+      }
+    }
+  </style>
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Portfolio
+  * Template URL: https://bootstrapmade.com/folioone-bootstrap-portfolio-website-template/
+  * Updated: Aug 23 2025 with Bootstrap v5.3.7
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MPJY6YDH30"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-MPJY6YDH30');
+</script>
+
+<body class="index-page">
+  <header id="header" class="header d-flex align-items-center light-background sticky-top">
+    <div class="container position-relative d-flex align-items-center justify-content-between">
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#project">Projects</a></li>
+          <li><a href="#resume">Resume</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+      <div class="header-social-links">
+        <a href="https://github.com/Mehmaam99" target="_blank" rel="noopener" class="github"><i
+            class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/muhammad-mehmam/" target="_blank" rel="noopener" class="linkedin"><i
+            class="bi bi-linkedin"></i></a>
+      </div>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4 align-items-center">
+          <div class="col-lg-6 order-2 order-lg-1">
+            <div class="hero-content">
+              <div class="availability-badge" data-aos="fade-down" data-aos-delay="100">
+                <span class="status-dot"></span>
+                <span class="status-text">Available for Hire - Open to Projects & Full-Time Roles</span>
+              </div>
+              <h1 data-aos="fade-up" data-aos-delay="200">Build <span class="highlight">AI Agents</span> that solve real
+                business problems.</h1>
+              <p data-aos="fade-up" data-aos-delay="400">Syed Muhammad Mehmam — AI Engineer specializing in LLMs, RAG
+                pipelines, and autonomous AI agents. I help companies automate complex workflows and unlock the value in
+                their data with production-ready AI solutions.</p>
+              <div class="primary-skills-badges mb-4" data-aos="fade-up" data-aos-delay="420">
+                <span class="badge bg-glass me-2"><i class="bi bi-cpu me-1"></i> LangChain</span>
+                <span class="badge bg-glass me-2"><i class="bi bi-diagram-3 me-1"></i> LangGraph</span>
+                <span class="badge bg-glass me-2"><i class="bi bi-database me-1"></i> Vector DBs</span>
+                <span class="badge bg-glass"><i class="bi bi-cloud me-1"></i> Cloud AI</span>
+              </div>
+              <div class="stats-row" data-aos="fade-up" data-aos-delay="450">
+                <div class="stat-item">
+                  <span class="stat-number">5+</span>
+                  <span class="stat-label">AI Projects</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-number">24-48h</span>
+                  <span class="stat-label">Response Time</span>
+                </div>
+                <div class="stat-item">
+                  <span class="stat-number">100%</span>
+                  <span class="stat-label">Remote</span>
+                </div>
+              </div>
+              <div class="hero-actions" data-aos="fade-up" data-aos-delay="500">
+                <a href="#project" class="btn btn-primary">View My Work</a>
+                <a href="#contact" class="btn btn-outline">Get In Touch</a>
+              </div>
+              <div class="social-links" data-aos="fade-up" data-aos-delay="600">
+                <a href="https://github.com/Mehmaam99" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>
+                <a href="https://www.linkedin.com/in/muhammad-mehmam/" target="_blank" rel="noopener"><i
+                    class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2">
+            <div class="hero-image" data-aos="zoom-in" data-aos-delay="300">
+              <div class="image-wrapper">
+                <img src="assets/img/profile/profile-square-profile-size.png" alt="Syed Muhammad Mehmam"
+                  class="img-fluid">
+                <div class="floating-elements">
+                  <div class="floating-card design" data-aos="fade-left" data-aos-delay="700">
+                    <i class="bi bi-palette"></i>
+                    <span>Design</span>
+                  </div>
+                  <div class="floating-card code" data-aos="fade-right" data-aos-delay="800">
+                    <i class="bi bi-code-slash"></i>
+                    <span>Code</span>
+                  </div>
+                  <div class="floating-card creativity" data-aos="fade-up" data-aos-delay="900">
+                    <i class="bi bi-lightbulb"></i>
+                    <span>Ideas</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <!-- Section Title -->
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <!-- Intro -->
+        <div class="row align-items-center justify-content-between gy-5 mb-5">
+          <div data-aos="fade-right" data-aos-delay="150">
+            <div class="intro-content">
+              <span class="eyebrow">AI Engineer</span>
+              <h2 class="headline"> I design intelligent AI agents and RAG pipelines that turn enterprise data into
+                actionable intelligence.</h2>
+              <p class="lead">
+                I build Generative AI solutions that seamlessly integrate LLMs with vector databases like Pinecone and
+                Weaviate—ensuring every workflow is scalable, efficient, and AI-native.
+              </p>
+              <p>
+                Recently, I delivered an AI-powered RAG data pipeline that automated insights extraction from complex
+                datasets, empowering teams with smarter, context-aware decision-making. </p>
+
+              <div class="cta-group">
+                <a href="https://www.linkedin.com/in/muhammad-mehmam/" target="_blank" class="link-underline">
+                  Connect on LinkedIn <i class="bi bi-linkedin"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Intro -->
+
+        <!-- Skills Grid -->
+        <div class="mb-5">
+          <div class="row g-4">
+            <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+              <div class="skill-item">
+                <i class="bi bi-cpu"></i>
+                <h3>AI Engineer</h3>
+                <p>Build LLM-powered applications and agents.</p>
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+              <div class="skill-item">
+                <i class="bi bi-robot"></i>
+                <h3>Gen AI Developer</h3>
+                <p>RAG pipelines and prompt engineering.</p>
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="240">
+              <div class="skill-item">
+                <i class="bi bi-gear-wide-connected"></i>
+                <h3>AI Data Infrastructure</h3>
+                <p>Scalable ETL, Vector DBs & Knowledge Graphs.</p>
+              </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+              <div class="skill-item">
+                <i class="bi bi-cpu"></i>
+                <h3>Machine Learning Engineer</h3>
+                <p>Production-grade Predictive & Generative Models.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Skills Grid -->
+
+        <!-- Journey Timeline -->
+        <div class="mb-5">
+          <div class="row g-4">
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="120">
+              <article class="timeline-item">
+                <span class="dot"></span>
+                <time>2018–2022</time>
+                <h4>BS Computer Science</h4>
+                <p>Sir Syed University of Engineering and Technology</p>
+              </article>
+            </div>
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="180">
+              <article class="timeline-item">
+                <span class="dot"></span>
+                <time>2022–2023</time>
+                <h4>Data Scientist</h4>
+                <p>Predictive models and time series models.</p>
+              </article>
+            </div>
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="240">
+              <article class="timeline-item">
+                <span class="dot"></span>
+                <time>2023–2025</time>
+                <h4>AI Engineer</h4>
+                <p>Python, LangChain, LangGraph,LangSmith, VectorDBs related ETL pipelines</p>
+              </article>
+            </div>
+            <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+              <article class="timeline-item">
+                <span class="dot"></span>
+                <time>2025—Now</time>
+                <h4>Sr. Gen AI & Cloud AI Engineer</h4>
+                <p>Architecting Enterprise AI Agents & Cloud Data Platforms.</p>
+              </article>
+            </div>
+          </div>
+        </div>
+        <!-- End Journey Timeline -->
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>What I Can Build For You</h2>
+        <p>Specialized AI solutions that automate workflows, unlock insights, and scale your operations</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+        <div class="row gy-4">
+
+          <!-- Service 1: Agents -->
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item glass-card shimmer-border">
+              <div class="icon-container">
+                <i class="bi bi-cpu-fill"></i>
+              </div>
+              <h3>Autonomous AI Agents</h3>
+              <p>Beyond simple chat—developing autonomous agents using <strong>LangGraph</strong> that can browse, use
+                tools, and execute logic independently.</p>
+              <ul class="service-list mt-3">
+                <li>Multi-agent orchestration</li>
+                <li>Self-correcting RAG loops</li>
+                <li>Tool & API integration</li>
+              </ul>
+            </div>
+          </div><!-- End Service Item -->
+
+          <!-- Service 2: RAG -->
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item glass-card shimmer-border">
+              <div class="icon-container">
+                <i class="bi bi-layers-half"></i>
+              </div>
+              <h3>Enterprise RAG Pipelines</h3>
+              <p>Architecting production-grade retrieval systems with sub-second latency, integrating <strong>Vector
+                  DBs</strong> and hybrid search.</p>
+              <ul class="service-list mt-3">
+                <li>Advanced chunking strategies</li>
+                <li>Semantic & keyword hybrid search</li>
+                <li>Metadata-filtered retrieval</li>
+              </ul>
+            </div>
+          </div><!-- End Service Item -->
+
+          <!-- Service 3: Custom LLMs -->
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item glass-card shimmer-border">
+              <div class="icon-container">
+                <i class="bi bi-stars"></i>
+              </div>
+              <h3>LLM Customization</h3>
+              <p>Optimizing models for vertical-specific tasks through <strong>RAG-based fine-tuning</strong> and
+                advanced prompt engineering.</p>
+              <ul class="service-list mt-3">
+                <li>Domain-specific prompt tuning</li>
+                <li>Model evaluation & benchmarking</li>
+                <li>Cost-efficient token optimization</li>
+              </ul>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+      </div>
+
+    </section><!-- /Services Section -->
+
+    <!-- Process Section -->
+    <section id="process" class="process section">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>How I Work</h2>
+        <p>A proven, end-to-end process for delivering high-impact AI solutions.</p>
+      </div>
+
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="process-item glass-card">
+
+              <h3>Consultation</h3>
+              <p>Deep dive into your business needs, data architecture, and desired outcomes.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="process-item glass-card">
+
+              <h3>AI Strategy</h3>
+              <p>Selecting optimal LLMs and designing robust RAG or agentic architectures.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="process-item glass-card">
+
+              <h3>Development</h3>
+              <p>Rapid, iterative building using CI/CD pipelines and production-grade code.</p>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="process-item glass-card">
+
+              <h3>Deployment</h3>
+              <p>Cloud integration, monitoring, and scaling to ensure long-term ROI.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- /Process Section -->
+
+
+    <!-- project Section -->
+    <section id="project" class="project section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Projects</h2>
+        <p>
+          A curated collection of enterprise-grade AI and Gen AI engineering projects — ranging from autonomous RAG
+          agents
+          and LLM fine-tuning to high-scale cloud data platforms.
+          Click a card to view the repository or explore the project overview.
+        </p>
+      </div><!-- End Section Title -->
+
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <!-- End project Filters -->
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+          <ul class="project-filters isotope-filters" data-aos="fade-up" data-aos-delay="200">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-ai-project">AI Project</li>
+            <li data-filter=".filter-genai-project">Gen AI Project</li>
+            <li data-filter=".filter-cloud-project">Cloud Project</li>
+          </ul>
+          <!-- End project Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="300">
+            <!-- Blood Pressure Analyzer (Done) -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-ai-project">
+              <a href="https://github.com/Mehmaam99/Blood-Pressure-Analyzer" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/blood-pressure.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Blood Pressure Analyzer</h4>
+                    <p>A predictive health analytics application utilizing machine learning algorithms to classify blood
+                      pressure conditions with high accuracy.</p>
+                    <div class="project-tags">
+                      <span>Machine Learning</span>
+                      <span>Health AI</span>
+                      <span>Predictive Analytics</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <!-- Azure Data Migration Pipeline (Done) -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-cloud-project">
+              <a href="https://github.com/Mehmaam99/Azure-Data-Migration-Pipeline" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/azure-data-factory.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Azure Data Migration Pipeline</h4>
+                    <p>An end-to-end Gen AI engineering solution that seamlessly migrates on-premises data to a modern
+                      cloud-based data warehouse on Azure.</p>
+                    <div class="project-tags">
+                      <span>Azure Cloud</span>
+                      <span>Databricks</span>
+                      <span>Data Factory</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <!-- SQL Data Warehouse (Done)-->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-genai-project filter-cloud-project">
+              <a href="https://github.com/Mehmaam99/sql-data-warehouse-project" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/sql-data-warehouse.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Enterprise Data Warehouse for AI</h4>
+                    <p>A high-performance data warehouse architecture (Medallion) ensuring clean, governed, and AI-ready
+                      data for advanced analytics and ML model training.</p>
+                    <div class="project-tags">
+                      <span>AI Data Strategy</span>
+                      <span>SQL</span>
+                      <span>Medallion Architecture</span>
+                      <span>Data Governance</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <!-- ETL Pipeline for Hospital Services -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-genai-project">
+              <a href="https://github.com/Mehmaam99/hospital-data-engineering-pipeline" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/Hospital-pipeline.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Hospital Gen AI Engineering Pipeline</h4>
+                    <p>A data-driven solution that processes hospital records to monitor costs, analyze departmental
+                      expenses, and deliver insights for smarter financial decisions.</p>
+                    <div class="project-tags">
+                      <span>Clinical Data Modeling</span>
+                      <span>ETL Orchestration</span>
+                      <span>Data Quality</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <!-- Azure-Data-Engineering-Project (Done) -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-cloud-project">
+              <a href="https://github.com/Mehmaam99/Azure-Data-Engineering-Project" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/azure-data-eng.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Azure Gen AI Engineering Project</h4>
+                    <p>A cloud-native pipeline built on Azure to process and analyze Olympic data, transforming raw
+                      datasets into actionable insights for performance and trend analysis.</p>
+                    <div class="project-tags">
+                      <span>Data Factory</span>
+                      <span>Azure Cloud</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <!-- Smart Occupancy Detection System -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-cloud-project">
+              <a href="https://github.com/HiraFatima-Dev/Capstone_Staging" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/room-occupancy.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>Smart Occupancy Detection System</h4>
+                    <p>An IoT-powered solution that intelligently monitors and analyzes home occupancy in real time for
+                      smarter energy management and enhanced security.</p>
+                    <div class="project-tags">
+                      <span>Kafka</span>
+                      <span>AWS</span>
+                      <span>S3</span>
+                      <span>Docker</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+
+            <!-- Smart Occupancy Detection System -->
+            <div class="col-lg-4 col-md-6 project-item isotope-item filter-genai-project filter-cloud-project">
+              <a href="https://github.com/Mehmaam99/Retrieval_Augmented_Generation_RAG_Data_Pipeline" target="_blank">
+                <div class="project-card">
+                  <div class="project-img">
+                    <img src="assets/img/project/AI_RAG_thumbnai_website.png" alt="Project Item" class="img-fluid">
+                  </div>
+                  <div class="project-info">
+                    <h4>AI RAG Data Pipeline</h4>
+                    <p>A RAG-based data pipeline that ingests video data from AWS S3, performs audio extraction and
+                      speech-to-text transcription, and converts the text into vector embeddings for storage in a vector
+                      database.</p>
+                    <div class="project-tags">
+                      <span>Python</span>
+                      <span>AWS</span>
+                      <span>S3</span>
+                      <span>RAG</span>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+
+
+          </div><!-- End Project Items Container -->
+
+        </div>
+
+        <!-- <div class="text-center mt-5" data-aos="fade-up" data-aos-delay="400">
+          <a href="#project" class="btn btn-primary">View All Case Studies</a>
+        </div> -->
+
+      </div>
+
+    </section><!-- /project Section -->
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Skills</h2>
+        <p>Core strengths across Gen AI engineering, warehousing, and analytics—focused on building scalable, reliable,
+          and cloud-based data solutions.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row g-4 skills-animation">
+
+          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="100">
+            <div class="skill-box">
+              <h3>AI & Gen AI Engineer</h3>
+              <p class="mb-2">Developing RAG pipelines, fine-tuning LLMs, and building intelligent agents with LangChain
+                and LlamaIndex.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="200">
+            <div class="skill-box">
+              <h3>Gen AI Engineering</h3>
+              <p class="mb-2">ETL/ELT design, vector database management (ChromaDB), and scalable data
+                processing pipelines.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+            <div class="skill-box">
+              <h3>Cloud AI Services</h3>
+              <p class="mb-2">Experience with OpenAI API, Azure AI, AWS Bedrock, and deploying models on cloud
+                infrastructure.</p>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
+            <div class="skill-box">
+              <h3>Machine Learning</h3>
+              <p class="mb-2">Predictive modeling, deep learning, and MLOps for production-grade AI applications.</p>
+            </div>
+          </div>
+
+        </div>
+
+        <p class="mt-3">Also: SQL Server, PostgreSQL, DataBricks, Spark optimization, version control (Git), and data
+          quality frameworks.</p>
+
+      </div>
+
+    </section><!-- /Skills Section -->
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume section">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Resume</h2>
+        <p>View my resume or download the PDF.</p>
+      </div>
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="justify-content-center d-flex flex-wrap gap-3">
+          <a href="https://flowcv.com/resume/ok5firnp360q" target="_blank" rel="noopener" class="btn btn-primary">
+            <i class="bi bi-box-arrow-up-right me-1"></i> View Resume
+          </a>
+          <a href="https://flowcv.com/resume/ok5firnp360q" target="_blank" rel="noopener" class="btn btn-success">
+            <i class="bi bi-download me-1"></i> Download PDF
+          </a>
+          <!-- <a href="https://flowcv.com/resume/4tguqvs6i7vb.pdf" class="btn btn-success">
+            <i class="bi bi-download me-1"></i> Download PDF</a> -->
+        </div>
+      </div>
+    </section>
+    <!-- /Resume Section -->
+
+    <!-- Why Hire Me Section -->
+    <section id="why-hire" class="why-hire section">
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Why Work With Me?</h2>
+        <p>I combine deep AI research with production-grade engineering to deliver scalable, reliable solutions.</p>
+      </div>
+
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="authority-item glass-card shimmer-border">
+              <div class="authority-badge"><i class="bi bi-check2-circle"></i> Scalable</div>
+              <div class="icon-container">
+                <i class="bi bi-shield-lock-fill"></i>
+              </div>
+              <h3>Secure & Scalable</h3>
+              <p>I architect AI solutions prioritizing privacy and compliance, built to handle enterprise-scale datasets
+                with zero downtime.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="authority-item glass-card shimmer-border">
+              <div class="authority-badge"><i class="bi bi-lightning-fill"></i> Fast</div>
+              <div class="icon-container">
+                <i class="bi bi-node-plus-fill"></i>
+              </div>
+              <h3>Agentic Intelligence</h3>
+              <p>I specialize in self-reasoning AI loops that don't just "talk"—they think, plan, and execute multi-step
+                workflows.</p>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="authority-item glass-card shimmer-border">
+              <div class="authority-badge"><i class="bi bi-hdd-network-fill"></i> Hybrid</div>
+              <div class="icon-container">
+                <i class="bi bi-cloud-check-fill"></i>
+              </div>
+              <h3>Cloud-Native Edge</h3>
+              <p>Whether on AWS or Azure—I ensure your AI stack is performant, cost-optimized, and integrated with your
+                existing data infra.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- /Why Hire Me Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Let’s build with AI</h2>
+        <p>I help teams automate workflows and unleash the potential of their data through Gen AI agents and robust AI
+          pipelines. Share a brief on your use case and I’ll get back within 24–48 hours.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-12 col-lg-6">
+            <div class="info-box glass-card shimmer-border" style="color: #ffffff;">
+              <h3 style="color: #ffffff;">Contact Info</h3>
+              <p style="color: #ffffff;">For any inquiries, please contact me via email.</p>
+
+              <div class="mt-4">
+                <h4 style="color: #ffffff; font-weight: 700; font-size: 1.1rem; margin-bottom: 5px;">Project Inquiries
+                </h4>
+                <p style="color: #ffffff; margin-bottom: 5px;">For engagements, collaborations, and consulting.</p>
+                <p class="email-pop" style="margin-bottom: 15px;">
+                  <a href="mailto:muhammadmehmam@gmail.com"
+                    style="color: #00e5ff; font-weight: bold;">muhammadmehmam@gmail.com</a>
+                </p>
+
+                <h4 style="color: #ffffff; font-weight: 700; font-size: 1.1rem; margin-bottom: 5px;">Preferred Contact
+                </h4>
+                <p style="color: #ffffff; margin-bottom: 5px;">Email is best for initial scoping or use LinkedIn.</p>
+                <p style="color: #ffffff; margin-bottom: 15px;">Happy to schedule a call after your message.</p>
+
+                <h4 style="color: #ffffff; font-weight: 700; font-size: 1.1rem; margin-bottom: 5px;">Location &
+                  Availability</h4>
+                <p style="color: #ffffff; margin-bottom: 5px;">Remote — Worldwide</p>
+                <p style="color: #ffffff; opacity: 0.8; font-size: 0.9rem;">Replies within 12–24 hours (business days)
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer">
+
+    <div class="container">
+      <div class="copyright text-center ">
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">Portfolio</strong> <span>All Rights
+            Reserved<br></span></p>
+      </div>
+      <div class="social-links d-flex justify-content-center">
+        <a href="https://github.com/Mehmaam99" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>
+        <a href="https://www.linkedin.com/in/muhammad-mehmam/" target="_blank" rel="noopener"><i
+            class="bi bi-linkedin"></i></a>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="">Syed Muhammad Mehmam</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+  <!-- Markdown Parser -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- XSS Sanitizer -->
+  <script src="https://cdn.jsdelivr.net/npm/dompurify/dist/purify.min.js"></script>
+  <!-- Embed Widget -->
+  <script src="widget.js?v=6"></script>
+
+
+</body>
+
+</html>
